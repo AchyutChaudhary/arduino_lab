@@ -1,0 +1,19 @@
+void setup() {
+  // put your setup code here, to run once:
+Serial.begin(9600);
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  for(int i=33;i<127;i++){
+    Serial.print("ASCII ");
+    Serial.print(i);
+    Serial.print(" - ");
+    Serial.write(i);
+    Serial.println(" ");
+    }
+//    delay(100);
+    exit(1);
+    
+}
