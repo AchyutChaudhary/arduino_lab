@@ -54,14 +54,14 @@ void loop() {
 forward();
 delay(2000);    
 clockwise();
-delay(1000);
+delay(13000);
 forward();
 delay(2000);    
 clockwise();
-delay(1000);
+delay(13000);
 forward();
 delay(2000);    
 clockwise();
-delay(1000);
+delay(13000);
 
 }
