@@ -52,16 +52,15 @@ void anticlockwise(){
 void loop() {
   // put your main code here, to run repeatedly:
 forward();
-delay(2000);    
+delay(5000);    
 clockwise();
-delay(13000);
+delay(8000/3);
 forward();
-delay(2000);    
+delay(5000);    
 clockwise();
-delay(13000);
+delay(8000/3);
 forward();
-delay(2000);    
+delay(5000);    
 clockwise();
-delay(13000);
-
+delay(8000/3);
 }
