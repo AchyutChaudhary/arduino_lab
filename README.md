@@ -9,3 +9,8 @@ ir sensor over a1-2-3-4 pins
 
 zigbie for wireless
 
+buggy moves forward in direction of ultrasonic!
+5   8
+6   7
+
+
